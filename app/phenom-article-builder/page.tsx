@@ -472,7 +472,7 @@ export default function ArticleBuilder() {
                           ) : (
                             <div className="text-center py-12">
                               <p className="black text-lg">
-                                Please enter an organization's name and add content to preview the article.
+                                Please enter an phenomenon's name and add content to preview the article.
                               </p>
                             </div>
                           )}

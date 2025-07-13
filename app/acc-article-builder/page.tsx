@@ -247,7 +247,7 @@ export default function ArticleBuilder() {
                 filter: "drop-shadow(0 5px 15px rgba(0,0,0,0.5))",
               }}
             >
-              Write About An Organization
+              Write An Account Article
             </h1>
             <p
               className="text-sm sm:text-lg text-gray-300 leading-relaxed"
@@ -472,7 +472,7 @@ export default function ArticleBuilder() {
                           ) : (
                             <div className="text-center py-12">
                               <p className="black text-lg">
-                                Please enter an organization's name and add content to preview the article.
+                                Please enter an account's name and add content to preview the article.
                               </p>
                             </div>
                           )}
